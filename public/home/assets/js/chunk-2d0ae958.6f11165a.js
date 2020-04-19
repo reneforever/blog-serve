@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ae958"],{"0b4d":function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v(" 留言板 ")])},o=[],u={data:function(){return{}},components:{},methods:{}},a=u,r=t("2877"),s=Object(r["a"])(a,c,o,!1,null,"42863f0e",null);e["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0ae958.6f11165a.js.map
