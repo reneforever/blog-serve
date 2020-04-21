@@ -4,6 +4,9 @@ const path = require('path')
 // 服务器搭建
 const app = express(); 
 
+// 数据库连接
+require('./model/connect')
+
 // 提供模板位置及默认后缀
 app.set('views', path.join(__dirname, 'views'))
 app.set('view engine', 'art')
